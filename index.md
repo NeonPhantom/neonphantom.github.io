@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Hi Everybody!
 
-You can use the [editor on GitHub](https://github.com/NeonPhantom/octocat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Grant, and I am a GIMM (Games, Interactive Media, and Mobile technology) major at BSU with minors in Computer Science and Business Bridge to Career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Game Design
 
-### Markdown
+Due to being enrolled in the GIMM major, I have experience in video game design.
+Here is a video of a half-finished game that I am currently working on: [The Honor Guard](https://youtu.be/aTWHIt1GwwU)
+It will be fully completed by this Christmas! (2019)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Music
 
-```markdown
-Syntax highlighted code block
+Along with my major and minors, I also have a passion for music, and I am a self-taught composer.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeonPhantom/octocat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like to listen to some of my music, check out my Youtube channel: [Grant Heffner Music](https://www.youtube.com/channel/UCoozf-OkNY72iU-wf5acteA).
